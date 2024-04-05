@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+section{
+
+    height: 800px;
+    padding-left: 150px;
+    
+}
+.section-bg{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    background-position-y: top;
+}
+.name-highlight{
+    color: blue;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    padding-top: 5%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 100%;
+
+}
+.half-width-text{
+    
+    margin-top: 10%;
+    padding-left: 10%;
+    margin-left: 10px;
+
+
+}
+.second-sec{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:800px;
+}
+.mlw-title{
+    text-align: center;
+    
+    
+}
+
+
+.mlw{
+    width: 30%;
+    align-content: center;
+    float: left;
+    padding-top: 3%;
+    margin: 5px;
+    
+    
+
+
+}
+.mlw img{
+    width: 100%;
+
+
+}
+.mlw-sec{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 100%;
+    background-position-y: -150px;
+
+
+    margin: 0px;
+    padding-left: 100px;
+    height: 500px;
+}
+.end{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 100%;
+    background-position-y: -180px;
+    
+}
+.end-div{
+    margin-top: 100px;
+
+    
+}
+.mlw-end{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 0;
+}
+.end-span{
+    font-weight: 300;
+    font-size: small;
+}
+.contact{
+    position: relative;
+    top: 10%;
+    left: 42%;
+    text-align: center;
+    
+    border: 1px solid pink;
+    height: 50px;
+    width: 200px;
+    background-color: pink;
+}
+.small-text{
+    font-weight: 300;
+    font-size: small;
+}
+* {
+    margin:0;
+    padding:0;
+    }
